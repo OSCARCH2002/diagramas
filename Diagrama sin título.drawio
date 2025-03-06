@@ -636,11 +636,35 @@
             <mxPoint x="-90" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zSAJrSSpQA3sfIf_E76h-4" value="&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;747&quot; data-end=&quot;804&quot;&gt;&lt;td&gt;ID_Tutor&lt;/td&gt;&lt;td&gt;INT (PK)&lt;/td&gt;&lt;td&gt;Identificador único del tutor&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;805&quot; data-end=&quot;851&quot;&gt;&lt;td&gt;Nombre&lt;/td&gt;&lt;td&gt;VARCHAR(50)&lt;/td&gt;&lt;td&gt;Nombre del tutor&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;852&quot; data-end=&quot;900&quot;&gt;&lt;td&gt;Apellido&lt;/td&gt;&lt;td&gt;VARCHAR(50)&lt;/td&gt;&lt;td&gt;Apellido del tutor&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;901&quot; data-end=&quot;949&quot;&gt;&lt;td&gt;Correo&lt;/td&gt;&lt;td&gt;VARCHAR(50)&lt;/td&gt;&lt;td&gt;Correo electrónico&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;950&quot; data-end=&quot;988&quot;&gt;&lt;td&gt;Telefono&lt;/td&gt;&lt;td&gt;VARCHAR(10)&lt;/td&gt;&lt;td&gt;Teléfono&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr data-start=&quot;989&quot; data-end=&quot;1044&quot;&gt;&lt;td&gt;Parentesco&lt;/td&gt;&lt;td&gt;VARCHAR(50)&lt;/td&gt;&lt;td&gt;Parentesco con el usuario&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="-10" width="330" height="150" as="geometry" />
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-5" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-120" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zSAJrSSpQA3sfIf_E76h-5" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Nombre&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-110" width="100" height="30" as="geometry" />
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-6" value="Apellido" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-7" value="Telefono" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-175" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-8" value="Parentesco" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-135" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-9" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.08;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zSAJrSSpQA3sfIf_E76h-5" target="zSAJrSSpQA3sfIf_E76h-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-46" y="-111" as="sourcePoint" />
+            <mxPoint x="-80" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.71;exitY=1.075;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zSAJrSSpQA3sfIf_E76h-7" target="zSAJrSSpQA3sfIf_E76h-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-46" y="-111" as="sourcePoint" />
+            <mxPoint x="-80" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zSAJrSSpQA3sfIf_E76h-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zSAJrSSpQA3sfIf_E76h-8" target="zSAJrSSpQA3sfIf_E76h-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-36" y="-101" as="sourcePoint" />
+            <mxPoint x="-70" y="-60" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

@@ -11,10 +11,10 @@
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7O-z4zuoo0SqcSkAvMZf-7" value="Usuario&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="160" height="120" as="geometry" />
+          <mxGeometry x="740" y="210" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7O-z4zuoo0SqcSkAvMZf-8" value="ID&lt;div&gt;Nombre&lt;/div&gt;&lt;div&gt;ApellidoP&lt;/div&gt;&lt;div&gt;ApellidoM&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="7O-z4zuoo0SqcSkAvMZf-7">
-          <mxGeometry y="50" width="160" height="70" as="geometry" />
+        <mxCell id="7O-z4zuoo0SqcSkAvMZf-8" value="ID&lt;div&gt;Nombre&lt;/div&gt;&lt;div&gt;ApellidoP&lt;/div&gt;&lt;div&gt;ApellidoM&lt;/div&gt;&lt;div&gt;Correo&lt;/div&gt;&lt;div&gt;Telefono&lt;/div&gt;&lt;div&gt;Contraseña&lt;/div&gt;&lt;div&gt;Perfil&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="7O-z4zuoo0SqcSkAvMZf-7">
+          <mxGeometry y="50" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="7O-z4zuoo0SqcSkAvMZf-10" value="&lt;div&gt;Menu&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="160" height="120" as="geometry" />

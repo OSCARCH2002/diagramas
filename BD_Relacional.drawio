@@ -22,6 +22,21 @@
         <mxCell id="UgrekTySW67cZ93FWNIJ-10" value="Platillos&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TEXT&lt;div&gt;Postres&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TEXT&lt;/div&gt;&lt;div&gt;Bebida&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TEXT&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="UgrekTySW67cZ93FWNIJ-9">
           <mxGeometry y="50" width="160" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="UgrekTySW67cZ93FWNIJ-11" value="Bebidas" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="156.5" y="310" width="193.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UgrekTySW67cZ93FWNIJ-12" value="ID_bebida&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;div&gt;Tipo_bebida&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TEXT&lt;/div&gt;&lt;div&gt;Cantidad_ML&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; INTEGER&lt;/div&gt;&lt;div&gt;Precio&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DOUBLE&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="UgrekTySW67cZ93FWNIJ-11">
+          <mxGeometry y="50" width="193.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UgrekTySW67cZ93FWNIJ-16" value="&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Fecha&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Tipo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reporte&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;platillo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Cantidad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="635" y="475" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UgrekTySW67cZ93FWNIJ-20" value="ReporteGeneral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="193.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UgrekTySW67cZ93FWNIJ-21" value="&lt;div&gt;ID_Reporte&lt;/div&gt;&lt;div&gt;Fecha&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DATE&lt;/div&gt;&lt;div&gt;Tipo_Reporte&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TEXT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="UgrekTySW67cZ93FWNIJ-20">
+          <mxGeometry y="50" width="193.5" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

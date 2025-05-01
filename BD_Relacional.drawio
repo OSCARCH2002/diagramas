@@ -11,7 +11,7 @@
           <mxGeometry y="50" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UgrekTySW67cZ93FWNIJ-7" value="&lt;div&gt;ReporteDia&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="520" width="160" height="180" as="geometry" />
+          <mxGeometry x="2010" y="410" width="160" height="180" as="geometry" />
         </mxCell>
         <mxCell id="UgrekTySW67cZ93FWNIJ-8" value="ID_Reporte&lt;div&gt;Fecha&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; DATE&amp;nbsp;&lt;/div&gt;&lt;div&gt;Total&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DOUBLE&lt;/div&gt;&lt;div&gt;Platillo&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TEXT&lt;/div&gt;&lt;div&gt;Bebida&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TEXT&lt;/div&gt;&lt;div&gt;Postre&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; TEXT&lt;/div&gt;&lt;div&gt;Cantidad&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; INTEGER&lt;/div&gt;&lt;div&gt;PK_Orden&amp;nbsp; &amp;nbsp; &amp;nbsp; INT&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="UgrekTySW67cZ93FWNIJ-7" vertex="1">
           <mxGeometry y="50" width="160" height="130" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry y="50" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="UgrekTySW67cZ93FWNIJ-20" value="ReporteGeneral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2280" y="370" width="193.5" height="170" as="geometry" />
+          <mxGeometry x="2270" y="220" width="193.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="UgrekTySW67cZ93FWNIJ-21" value="&lt;div&gt;ID_Reporte&lt;/div&gt;&lt;div&gt;Fecha&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DATE&lt;/div&gt;&lt;div&gt;Tipo_Reporte&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;TEXT&lt;/div&gt;&lt;div&gt;Total&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DOUBLE&lt;/div&gt;&lt;div&gt;Total_Platillo&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;DOUBLE&lt;/div&gt;&lt;div&gt;Cantidad&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; INTEGER&lt;/div&gt;&lt;div&gt;PK_ReporteDia&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; INT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="UgrekTySW67cZ93FWNIJ-20" vertex="1">
           <mxGeometry y="50" width="193.5" height="120" as="geometry" />

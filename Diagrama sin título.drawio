@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Página-1" id="V-V55-iJyu9lPwuccyi-">
-    <mxGraphModel dx="2215" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="7O-z4zuoo0SqcSkAvMZf-14" value="&lt;div&gt;ReporteGeneral&lt;/div&gt;" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="290" width="170" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="CVo7ByJ79ZULJ2yW0YPO-1" value="&lt;span style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;ID_Reporte&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Fecha&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Tipo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reporte&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;platillo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Cantidad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7O-z4zuoo0SqcSkAvMZf-14">
+        <mxCell id="CVo7ByJ79ZULJ2yW0YPO-1" value="&lt;span style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;ID_Reporte&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Fecha&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Tipo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reporte&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Total&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;platillo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap-mode: wrap; text-align: left;&quot;&gt;Cantidad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="7O-z4zuoo0SqcSkAvMZf-14" vertex="1">
           <mxGeometry y="50" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="z4x9iwLQfdPULZzErYXz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="7O-z4zuoo0SqcSkAvMZf-18" target="7O-z4zuoo0SqcSkAvMZf-14" edge="1">
@@ -75,9 +75,6 @@
         <mxCell id="7O-z4zuoo0SqcSkAvMZf-25" value="ID_bebida&lt;div&gt;Tipo_bebida&lt;/div&gt;&lt;div&gt;Cantidad_ML&lt;/div&gt;&lt;div&gt;Precio&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" parent="7O-z4zuoo0SqcSkAvMZf-24" vertex="1">
           <mxGeometry y="50" width="167" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="7O-z4zuoo0SqcSkAvMZf-33" value="Opcional: Carrera en usuario" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="170" width="140" height="160" as="geometry" />
-        </mxCell>
         <mxCell id="z4x9iwLQfdPULZzErYXz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="7O-z4zuoo0SqcSkAvMZf-6" target="7O-z4zuoo0SqcSkAvMZf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -92,9 +89,6 @@
         </mxCell>
         <mxCell id="z4x9iwLQfdPULZzErYXz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="7O-z4zuoo0SqcSkAvMZf-11" target="7O-z4zuoo0SqcSkAvMZf-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z4x9iwLQfdPULZzErYXz-6" value="&lt;span style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;ID_Reporte&lt;/span&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Fecha&lt;/div&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Tipo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Reporte&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Total&lt;/div&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Total&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;platillo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; text-wrap-mode: wrap;&quot;&gt;Cantidad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="270" y="320" width="170" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
